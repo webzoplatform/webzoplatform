@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-slider {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.cards-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  overflow-x: hidden;
+  transition: transform 0.5s ease-in-out;
+}
+#color-changing-svg {
+  filter: drop-shadow(3px 3px 0 var(--shadow-color)); /* Use a CSS variable for the color */
+}
+/* Default styles for non-mobile devices */
+/* .screenSize {
+  height: 79vh;
+  max-height: -webkit-fill-available;
+}
+@media (max-height: 1400px) {
+  .screenSize {
+    height: 71vh;
+  }
+  
+}
+@media (max-height: 1200px) {
+  .screenSize {
+    height: 83vh;
+  }
+  
+}
+@media (max-height: 360px) {
+  .screenSize {
+    height: 77vh;
+  }
+  
+} */
+.mainPage {
+  min-height: 100vh;
+}
+@media (min-height: 700px) {
+  .mainPage {
+    height: 100vh;
+  }
+  .screeFix {
+    scale: 0.9;
+  }
+}
+@media (min-height: 1024px) {
+  .mainPage {
+    height: 100vh;
+  }
+  .screeFix {
+    scale: 1.5;
+  }
+}
+@media (max-height: 700px) {
+  .mainPage {
+    min-height: 100vh;
+    height: auto;
+  }
+  .screenSize {
+    height: 600px;
+  }
+}
+.card {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+}
+
+.card a {
+  color: black;
+  text-decoration: none;
+}
+
+.card h3 {
+  font-size: 24px;
+}
+
+.nav-buttons {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-buttons button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.container {
+  position: relative;
+  top: 50%;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.wrapper {
+  position: relative;
+}
+/* 
+.item {
+  width: 50px;
+  height: 50px;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  border-radius: 100%;
+  background-color: red;
+  z-index: 1;
+  cursor: pointer;
+} */
+
+.item.active {
+  /* background-color: blue; */
+}
+
+/* svg {
+  height: auto;
+  overflow: visible;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+} */
+
+.st0 {
+  fill: none;
+  stroke: #000000;
+  stroke-width: 2;
+  stroke-miterlimit: 1;
+}
+
+.start {
+  position: absolute;
+  top: 50%;
+  right: -30px;
+}
