@@ -303,6 +303,14 @@
       "color": "#D6B969",
       "paragraph": "Biryani Rice, Marinated Chicken, Indian Spices, Special Sauce",
       "price": 4.9
+    },
+      {
+      "id": "10",
+      "name": "Steak Ribeye",
+      "image": "/Mains/Vibez_Biryani.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price": 10.9
     }
   ],
   "fries": [
