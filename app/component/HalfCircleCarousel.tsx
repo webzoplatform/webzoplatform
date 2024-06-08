@@ -24,9 +24,9 @@ const items: MenuItem[] = [
   {
     id: "0",
     name: `Breakfast`,
-    image: "/burger.png",
-    link: "/burger",
-    itemsCount: 17,
+    image: "/breakfast.png",
+    link: "/breakfast",
+    itemsCount: 5,
     color: "#D6B969",
   },
   {
