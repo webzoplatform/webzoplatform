@@ -31,6 +31,14 @@ const items: MenuItem[] = [
   },
   {
     id: "1",
+    name: `Burgers <span class="text-base">&</span> Sliders`,
+    image: "/burger.png",
+    link: "/burger",
+    itemsCount: 17,
+    color: "#D6B969",
+  },
+  {
+    id: "2",
     name: `Appetizers`,
     image: "/appetizers.png",
     link: "/appetizers",
@@ -38,7 +46,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "2",
+    id: "3",
     name: "On The Oven",
     image: "/on_the_oven.png",
     link: "/on_the_oven",
@@ -46,7 +54,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "3",
+    id: "4",
     // name: `Burger <span class="text-base">&</span> Sliders`,
     name: `Soups`,
     image: "/soups.png",
@@ -55,7 +63,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "4",
+    id: "5",
     name: "Mains",
     image: "/mains.png",
     link: "/mains",
@@ -63,7 +71,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "5",
+    id: "6",
     name: "Fries",
     image: "/fries.png",
     link: "/fries",
@@ -71,7 +79,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "6",
+    id: "7",
     name: "Soft Drinks",
     image: "/soft_drinks.png",
     link: "/soft_drinks",
@@ -80,7 +88,7 @@ const items: MenuItem[] = [
   },
 
   {
-    id: "7",
+    id: "8",
     name: "salads",
     image: "/salads.png",
     link: "/salads",
@@ -88,7 +96,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "8",
+    id: "9",
     name: "Desserts",
     image: "/desserts.png",
     link: "/desserts",
@@ -96,7 +104,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "9",
+    id: "10",
     name: "Hot Drinks",
     image: "/hot_drinks.png",
     link: "/hot_drinks",
@@ -104,7 +112,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "10",
+    id: "11",
     name: "Cold Drinks",
     image: "/cold_drinks.png",
     link: "/cold_drinks",
@@ -113,7 +121,7 @@ const items: MenuItem[] = [
   },
 
   {
-    id: "11",
+    id: "12",
     name: "Mocktails",
     image: "/mocktails.png",
     link: "/mocktails",
@@ -121,7 +129,7 @@ const items: MenuItem[] = [
     color: "#D6B969",
   },
   {
-    id: "12",
+    id: "13",
     name: "Tea",
     image: "/Tea.png",
     link: "/Tea",
