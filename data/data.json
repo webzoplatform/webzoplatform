@@ -1,4 +1,38 @@
 {
+  "breakfast": [
+    {
+      "id": "1",
+      "name": "Kaleej Breakfast",
+      "image": "/breakfast/placeholder.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price":6.9
+    },
+    {
+      "id": "2",
+      "name": "Classic Chicken Burger",
+      "image": "/Burgers/Classic_Chicken_Burger.png",
+      "color": "#D6B969",
+      "paragraph": "Crispy chicken, american cheese, iceberg, pickle, mustard aioli",
+      "price": 2.4
+    },
+    {
+      "id": "3",
+      "name": "Black Magic Beef Burger",
+      "image": "/Burgers/Black_Magic_Beef_Burger.png",
+      "color": "#D6B969",
+      "paragraph": "Beef, onion rings, jalapeno, mushrooms, american cheese, spicy dynamite sauce",
+      "price": 2.4
+    },
+    {
+      "id": "4",
+      "name": "Upside Down Beef Burger",
+      "image": "/Burgers/Upside_Down_Beef_Burger.png",
+      "color": "#D6B969",
+      "paragraph": "Beef,portobello,provolone,rosemary mushroom cream.",
+      "price": 3.2
+    }
+  ],
   "burger": [
     {
       "id": "1",
