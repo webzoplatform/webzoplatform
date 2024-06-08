@@ -10,27 +10,43 @@
     },
     {
       "id": "2",
-      "name": "Classic Chicken Burger",
-      "image": "/Burgers/Classic_Chicken_Burger.png",
+      "name": "Short Rib Egg Benedict",
+      "image": "/breakfast/placeholder.png",
       "color": "#D6B969",
-      "paragraph": "Crispy chicken, american cheese, iceberg, pickle, mustard aioli",
-      "price": 2.4
+      "paragraph": "",
+      "price": 3.9
     },
     {
       "id": "3",
-      "name": "Black Magic Beef Burger",
-      "image": "/Burgers/Black_Magic_Beef_Burger.png",
+      "name": "Mushroom Egg Benedict",
+      "image": "/breakfast/placeholder.png",
       "color": "#D6B969",
-      "paragraph": "Beef, onion rings, jalapeno, mushrooms, american cheese, spicy dynamite sauce",
-      "price": 2.4
+      "paragraph": "",
+      "price": 2.9
     },
     {
       "id": "4",
-      "name": "Upside Down Beef Burger",
-      "image": "/Burgers/Upside_Down_Beef_Burger.png",
+      "name": "Sunny Sideup Egg",
+      "image": "/breakfast/placeholder.png",
       "color": "#D6B969",
-      "paragraph": "Beef,portobello,provolone,rosemary mushroom cream.",
-      "price": 3.2
+      "paragraph": "",
+      "price": 2.9
+    },
+    {
+      "id": "5",
+      "name": "Omelette Egg",
+      "image": "/breakfast/placeholder.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price": 6.5
+    },
+    {
+      "id": "6",
+      "name": "Arabic Vibez Breakfast",
+      "image": "/breakfast/placeholder.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price": 2.9
     }
   ],
   "burger": [
