@@ -23,7 +23,7 @@ interface MenuItem {
 const items: MenuItem[] = [
   {
     id: "0",
-    name: `Burgers <span class="text-base">&</span> Sliders`,
+    name: `Breakfast`,
     image: "/burger.png",
     link: "/burger",
     itemsCount: 17,
