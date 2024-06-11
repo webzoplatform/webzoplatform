@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Kaleej Breakfast",
-      "image": "/breakfast/placeholder.png",
+      "image": "/Breakfast/Kaleej.png",
       "color": "#D6B969",
       "paragraph": "",
       "price":6.9
@@ -35,7 +35,7 @@
     {
       "id": "5",
       "name": "Omelette Egg",
-      "image": "/breakfast/placeholder.png",
+      "image": "/Breakfast/Omelette_Egg.png",
       "color": "#D6B969",
       "paragraph": "",
       "price": 6.5
@@ -43,7 +43,7 @@
     {
       "id": "6",
       "name": "Arabic Vibez Breakfast",
-      "image": "/breakfast/placeholder.png",
+      "image": "/Breakfast/Arabic_Vibez.png",
       "color": "#D6B969",
       "paragraph": "",
       "price": 2.9
