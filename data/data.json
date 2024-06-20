@@ -38,7 +38,7 @@
       "image": "/breakfast/Omelette_Egg.png",
       "color": "#D6B969",
       "paragraph": "",
-      "price": 6.5
+      "price": 2.9
     },
     {
       "id": "6",
@@ -46,7 +46,7 @@
       "image": "/breakfast/Arabic_Vibez.png",
       "color": "#D6B969",
       "paragraph": "",
-      "price": 2.9
+      "price": 6.5
     }
   ],
   "burger": [
