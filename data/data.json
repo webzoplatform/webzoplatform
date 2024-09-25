@@ -171,6 +171,22 @@
       "color": "#D6B969",
       "paragraph": "",
       "price": 3.9
+    },
+    {
+      "id": "7",
+      "name": "Fuego gamberoni",
+      "image": "/Appetizers/Fuego_gamberoni.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price": 3.9
+    },
+    {
+      "id": "8",
+      "name": "Kunafa chicken",
+      "image": "/Appetizers/Kunafa_chicken.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price": 3.9
     }
   ],
   "on_the_oven": [
@@ -313,6 +329,14 @@
       "color": "#D6B969",
       "paragraph": "",
       "price": 10.9
+    },
+      {
+      "id": "11",
+      "name": "Beef Lasagna",
+      "image": "/Mains/Beef_Lasagna.png",
+      "color": "#D6B969",
+      "paragraph": "",
+      "price": 4.75
     }
   ],
   "fries": [
