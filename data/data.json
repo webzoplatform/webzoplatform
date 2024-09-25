@@ -52,14 +52,6 @@
   "burger": [
     {
       "id": "1",
-      "name": "Cheese Drama Beef Burger",
-      "image": "/Burgers/Cheese_Drama_Beef_Burger.png",
-      "color": "#D6B969",
-      "paragraph": "Beef patty / lettuce / tomato / served with cheese injection",
-      "price": 2.4
-    },
-    {
-      "id": "2",
       "name": "Classic Chicken Burger",
       "image": "/Burgers/Classic_Chicken_Burger.png",
       "color": "#D6B969",
@@ -67,15 +59,7 @@
       "price": 2.4
     },
     {
-      "id": "3",
-      "name": "Black Magic Beef Burger",
-      "image": "/Burgers/Black_Magic_Beef_Burger.png",
-      "color": "#D6B969",
-      "paragraph": "Beef, onion rings, jalapeno, mushrooms, american cheese, spicy dynamite sauce",
-      "price": 2.4
-    },
-    {
-      "id": "4",
+      "id": "2",
       "name": "Upside Down Beef Burger",
       "image": "/Burgers/Upside_Down_Beef_Burger.png",
       "color": "#D6B969",
@@ -83,7 +67,7 @@
       "price": 3.2
     },
     {
-      "id": "5",
+      "id": "3",
       "name": "OG Beef Burger",
       "image": "/Burgers/OG_Beef_Burger.png",
       "color": "#D6B969",
@@ -91,7 +75,7 @@
       "price": 2.4
     },
     {
-      "id": "6",
+      "id": "4",
       "name": "Double Patty Beef Burger",
       "image": "/Burgers/Double_Patty_Beef_Burger.png",
       "color": "#D6B969",
@@ -99,7 +83,7 @@
       "price": 2.4
     },
     {
-      "id": "7",
+      "id": "5",
       "name": "Nashville Chicken Burger",
       "image": "/Burgers/Nashville_Chicken_Burger.png",
       "color": "#D6B969",
@@ -107,15 +91,7 @@
       "price": 2.4
     },
     {
-      "id": "8",
-      "name": "Cheese Beef Burger",
-      "image": "/Burgers/Cheese_Beef_Burger.png",
-      "color": "#D6B969",
-      "paragraph": "Beef, mozarella, american cheese, dynamite sauce",
-      "price": 2.4
-    },
-    {
-      "id": "9",
+      "id": "6",
       "name": "Red Hood Chicken Slider",
       "image": "/Burgers/Red_Hood_Chicken_Slider.png",
       "color": "#D6B969",
@@ -123,15 +99,7 @@
       "price": 1.9
     },
     {
-      "id": "10",
-      "name": "Short Rib Slider",
-      "image": "/Burgers/Short_Rib_Slider.png",
-      "color": "#D6B969",
-      "paragraph": "Pulled Rib, BBQ Sauce, Lettuce, Pickle",
-      "price": 1.9
-    },
-    {
-      "id": "11",
+      "id": "7",
       "name": "Classic Chicken Slider",
       "image": "/Burgers/Classic_Chicken_Slider.png",
       "color": "#D6B969",
@@ -139,7 +107,7 @@
       "price": 1.9
     },
     {
-      "id": "12",
+      "id": "8",
       "name": "Old School Beef Slider",
       "image": "/Burgers/Old_School_Beef_Slider.png",
       "color": "#D6B969",
@@ -147,7 +115,7 @@
       "price": 1.9
     },
     {
-      "id": "13",
+      "id": "9",
       "name": "Classic Beef Slider",
       "image": "/Burgers/Classic_Beef_Slider.png",
       "color": "#D6B969",
@@ -155,36 +123,12 @@
       "price": 1.9
     },
     {
-      "id": "14",
-      "name": "Standard",
-      "image": "/Burgers/Standard.png",
-      "color": "#D6B969",
-      "paragraph": "Angus , special sauce , bacon jam , cheese , caramelized onions",
-      "price": 2.4
-    },
-    {
-      "id": "15",
+      "id": "10",
       "name": "Pitmaster",
       "image": "/Burgers/Pitmaster.png",
       "color": "#D6B969",
       "paragraph": "Angus double patty , maple glazed beef bacon , smoky bbq ranch , cheese , fried onion rings",
       "price": 3.2
-    },
-    {
-      "id": "16",
-      "name": "C4",
-      "image": "/Burgers/C4.png",
-      "color": "#D6B969",
-      "paragraph": "Cheesy crunchy chicken croissant with chili garlic aioli",
-      "price": 2.9
-    },
-    {
-      "id": "17",
-      "name": "Mango jalapeno chicken",
-      "image": "/Burgers/Mango_Jalapeno_Chicken.png",
-      "color": "#D6B969",
-      "paragraph": "Crispy chicken,mango jalapeno aioli,fried jalapeno,cheese",
-      "price": 2.4
     }
   ],
   "appetizers": [
