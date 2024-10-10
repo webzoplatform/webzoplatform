@@ -337,6 +337,14 @@
       "color": "#D6B969",
       "paragraph": "",
       "price": 4.75
+    },
+          {
+      "id": "12",
+      "name": "Beet pasta",
+      "image": "/Mains/Beet_pasta.png",
+      "color": "#D6B969",
+      "paragraph": "Spaghetti, herbed beetroot sauce, grilled chicken, herbed italian cream cheese",
+      "price": 5.2
     }
   ],
   "fries": [
@@ -387,6 +395,14 @@
       "color": "#D6B969",
       "paragraph": "Slices of sweet potatoes, fried with oil, sprinkled with spices.",
       "price": 1.95
+    },
+        {
+      "id": "7",
+      "name": "Cajun baby potato",
+      "image": "/Fries/Cajun_baby_potato.png",
+      "color": "#D6B969",
+      "paragraph": "Potato, cajun spices, fresh herb and truffle seasoning, sriracha aioli ",
+      "price": 3.7
     }
   ],
   "salads": [
@@ -413,6 +429,14 @@
       "color": "#D6B969",
       "paragraph": "",
       "price": 4.9
+    },
+        {
+      "id": "4",
+      "name": "Hiroshima salad",
+      "image": "/salads/Hiroshima.png",
+      "color": "#D6B969",
+      "paragraph": "Fresh root vegetables juliennes, crunchy root vegetables, crab stick, house dressing, avocado, nori",
+      "price": 4.2
     }
   ],
   "desserts": [
